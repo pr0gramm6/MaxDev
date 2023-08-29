@@ -1,6 +1,6 @@
 # MaxDev
-Responsive homepage for a ficticious Web Development agency using only HTML & CSS
+Responsive homepage for a fictitious Web Development agency using only HTML & CSS
 
-Includes animations
+Includes animations, flexbox and grid
 
 Personal project on my way to learning Web Development
